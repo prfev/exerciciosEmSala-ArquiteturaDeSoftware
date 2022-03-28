@@ -1,0 +1,1 @@
+# exerciciosEmSala-ArquiteturaDeSoftware
